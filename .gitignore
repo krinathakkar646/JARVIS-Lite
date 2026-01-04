@@ -1,0 +1,14 @@
+# Python Junk
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Secret Keys (NEVER UPLOAD THESE)
+.env
+.streamlit/secrets.toml
+
+# Local Audio Files (Don't upload recordings)
+*.wav
+*.mp3
